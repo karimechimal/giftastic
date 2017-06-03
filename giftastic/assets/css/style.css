@@ -1,0 +1,38 @@
+
+body {
+    background-color: black;
+}
+
+#gifRow {
+    margin: 2% -1.3% 2% 0;
+}
+
+.gif-border {
+    border: 1px dotted white;
+}
+
+#gif-input {
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+#gifSearch {
+    padding: 2%;
+}
+
+.gif-btn,
+#gif-input {
+    margin: .5%;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: purple;
+}
+
+img {
+    margin: 0 auto;
+    height: 200px;
+    width: 100%
+}
